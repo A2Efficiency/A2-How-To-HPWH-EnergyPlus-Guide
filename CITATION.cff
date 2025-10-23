@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A2 Efficiency Open Resources"
+authors:
+  - name: "A2 Efficiency"
+license: "CC-BY-4.0"
+url: "https://github.com/A2Efficiency/<your-repo>"
